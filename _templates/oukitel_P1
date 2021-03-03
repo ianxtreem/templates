@@ -10,4 +10,4 @@ link: https://www.amazon.com/gp/product/B07PFP9XFL
 link2: https://www.aliexpress.com/item/32917182584.html
 ---
 
-Custom rules will need to be used to toggle the 2nd relay since only one button is available.
+Custom rules will need to be used to toggle the 2nd relay manually since only one button is available.
